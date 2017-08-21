@@ -1,5 +1,7 @@
 # @nglibs/meta [![Linux build](https://travis-ci.org/nglibs/meta.svg?branch=master)](https://travis-ci.org/nglibs/meta) [![Windows build](https://ci.appveyor.com/api/projects/status/github/nglibs/meta?branch=master&svg=true)](https://ci.appveyor.com/project/nglibs/meta) [![coverage](https://codecov.io/github/nglibs/meta/coverage.svg?branch=master)](https://codecov.io/gh/nglibs/meta) [![npm version](https://badge.fury.io/js/%40nglibs%2Fmeta.svg)](https://www.npmjs.com/package/@nglibs/meta)
 
+> Note: this is an implementation of oficial package @ngx/meta. 
+
 > Please support this project by simply putting a Github star. Share this library with friends on Twitter and everywhere else you can.
 
 > This repository holds the TypeScript source code and distributable bundle of **`@nglibs/meta`**, the dynamic page title &amp; meta tags generator for **Angular**.
