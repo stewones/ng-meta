@@ -1,0 +1,143 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@nglibs/meta@^0.4.0-rc.1",
+        "scope": "@nglibs",
+        "escapedName": "@nglibs%2fmeta",
+        "name": "@nglibs/meta",
+        "rawSpec": "^0.4.0-rc.1",
+        "spec": ">=0.4.0-rc.1 <0.5.0",
+        "type": "range"
+      },
+      "/Users/st1s/dev/stewan-io"
+    ]
+  ],
+  "_from": "@nglibs/meta@>=0.4.0-rc.1 <0.5.0",
+  "_id": "@nglibs/meta@0.4.0-rc.1",
+  "_inCache": true,
+  "_location": "/@nglibs/meta",
+  "_nodeVersion": "6.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/meta-0.4.0-rc.1.tgz_1491661520402_0.25919291167519987"
+  },
+  "_npmUser": {
+    "name": "nglibs",
+    "email": "burak.tasci@cozumtech.net"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@nglibs/meta@^0.4.0-rc.1",
+    "scope": "@nglibs",
+    "escapedName": "@nglibs%2fmeta",
+    "name": "@nglibs/meta",
+    "rawSpec": "^0.4.0-rc.1",
+    "spec": ">=0.4.0-rc.1 <0.5.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@nglibs/meta/-/meta-0.4.0-rc.1.tgz",
+  "_shasum": "d084fcf1f39344087ea2d16e728cfa5f2fd0468a",
+  "_shrinkwrap": null,
+  "_spec": "@nglibs/meta@^0.4.0-rc.1",
+  "_where": "/Users/st1s/dev/stewan-io",
+  "author": {
+    "name": "Burak Tasci",
+    "email": "me@fulls1z3.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nglibs/meta/issues"
+  },
+  "dependencies": {
+    "tslib": "^1.6.0"
+  },
+  "description": "Dynamic page title & meta tags utility for Angular (w/server-side rendering)",
+  "devDependencies": {
+    "@angular/common": "~4.0.0",
+    "@angular/compiler": "~4.0.0",
+    "@angular/compiler-cli": "~4.0.0",
+    "@angular/core": "~4.0.0",
+    "@angular/platform-browser": "~4.0.0",
+    "@angular/platform-browser-dynamic": "~4.0.0",
+    "@angular/router": "~4.0.0",
+    "@types/jasmine": "2.5.41",
+    "@types/lodash": "4.14.55",
+    "@types/node": "^7.0.12",
+    "awesome-typescript-loader": "^3.1.2",
+    "codelyzer": "^3.0.0-beta.4",
+    "core-js": "^2.4.1",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-exec": "^2.1.3",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-tslint": "^7.1.0",
+    "istanbul-instrumenter-loader": "0.2.0",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-mocha-reporter": "^2.2.3",
+    "karma-remap-coverage": "^0.1.4",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^2.0.3",
+    "lodash": "^4.17.4",
+    "rimraf": "^2.6.1",
+    "rxjs": "^5.2.0",
+    "source-map-loader": "^0.2.0",
+    "tslint": "4.5.1",
+    "tslint-loader": "^3.4.3",
+    "typescript": "~2.1.6",
+    "webpack": "^2.3.3",
+    "zone.js": "^0.8.5"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "d084fcf1f39344087ea2d16e728cfa5f2fd0468a",
+    "tarball": "https://registry.npmjs.org/@nglibs/meta/-/meta-0.4.0-rc.1.tgz"
+  },
+  "gitHead": "b3cf2ec80fcf2b75813e761de1345f1842b48ca6",
+  "homepage": "https://github.com/nglibs/meta#readme",
+  "keywords": [
+    "open graph",
+    "page title",
+    "meta tags",
+    "server side rendering",
+    "dom",
+    "seo",
+    "meta",
+    "universal",
+    "angular"
+  ],
+  "license": "MIT",
+  "main": "bundles/meta.umd.min.js",
+  "maintainers": [
+    {
+      "name": "nglibs",
+      "email": "burak.tasci@cozumtech.net"
+    }
+  ],
+  "module": "index.js",
+  "name": "@nglibs/meta",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/router": "^4.0.0",
+    "rxjs": "^5.0.1",
+    "lodash": "^4.17.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nglibs/meta.git"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "typings": "index.d.ts",
+  "version": "0.4.0-rc.1"
+}
